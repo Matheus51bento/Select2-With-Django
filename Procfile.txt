@@ -1,1 +1,1 @@
-web: gunicorn select2.select2.wsgi
+web: gunicorn select2.wsgi
